@@ -23,16 +23,6 @@ export const mockVideos: Video[] = [
     },
     {
         id: '3',
-        videoUrl: 'https://file-examples.com/storage/fea4ed5deb6a104b598f462/2017/04/file_example_MP4_1920_18MG.mp4',
-        authorName: 'fantasy.art',
-        avatarUrl: 'https://i.pravatar.cc/150?img=3',
-        description: 'Câu chuyện cổ tích hiện đại 🐉 #animation #fantasy',
-        likesCount: 15600,
-        commentsCount: 1240,
-        sharesCount: 890,
-    },
-    {
-        id: '4',
         videoUrl: '/videos/trailer.mp4',
         authorName: 'travel.capture',
         avatarUrl: 'https://i.pravatar.cc/150?img=4',
@@ -41,4 +31,15 @@ export const mockVideos: Video[] = [
         commentsCount: 654,
         sharesCount: 321,
     },
+    {
+        id: '4',
+        videoUrl: 'https://file-examples.com/storage/fea4ed5deb6a104b598f462/2017/04/file_example_MP4_1920_18MG.mp4',
+        authorName: 'fantasy.art',
+        avatarUrl: 'https://i.pravatar.cc/150?img=3',
+        description: 'Câu chuyện cổ tích hiện đại 🐉 #animation #fantasy',
+        likesCount: 15600,
+        commentsCount: 1240,
+        sharesCount: 890,
+    },
+
 ];
