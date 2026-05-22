@@ -23,7 +23,7 @@ export const mockVideos: Video[] = [
     },
     {
         id: '3',
-        videoUrl: 'https://media.w3.org/2010/05/sintel/trailer.mp4',
+        videoUrl: 'https://file-examples.com/storage/fea4ed5deb6a104b598f462/2017/04/file_example_MP4_1920_18MG.mp4',
         authorName: 'fantasy.art',
         avatarUrl: 'https://i.pravatar.cc/150?img=3',
         description: 'Câu chuyện cổ tích hiện đại 🐉 #animation #fantasy',
